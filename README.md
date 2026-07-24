@@ -34,6 +34,7 @@ cd HN-DDOS-V2
 bash install.sh
 python cloudddos.py
 
+```
 ---
 
 ## ⚠️ DISCLAIMER
@@ -49,18 +50,3 @@ Users are solely responsible for their actions and must ensure they have proper 
 
 > **🚨 "Great power comes with great responsibility." – Use it wisely.**
 
----
-# 1. File edit karo
-cd "/storage/emulated/0/ddos pro/"
-nano README.md
-
-# 2. Sab se neeche (END mein) upar wala disclaimer paste karo
-
-# 3. Save karo: Ctrl+X, Y, Enter
-
-# 4. GitHub pe update karo
-cp README.md ~/storage/downloads/HN-DDOS-REPO/
-cd ~/storage/downloads/HN-DDOS-REPO
-git add README.md
-git commit -m "Added Disclaimer"
-git push origin main
