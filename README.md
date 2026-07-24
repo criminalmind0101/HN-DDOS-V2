@@ -1,6 +1,6 @@
 # 💀 HN DDOS V2 - NUCLEAR FLOOD ENGINE 💀
 
-> **"One and only devil if virtual world : HackerNet"** 😈🔥
+> **"One and only devil of virtual world : HackerNet"** 😈🔥
 
 ---
 
