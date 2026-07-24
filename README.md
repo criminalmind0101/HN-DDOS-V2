@@ -26,7 +26,7 @@
 
 ## 📦 **INSTALLATION (TERMUX/LINUX)**
 
-### 🔥 **One-Click Install (Sabse Easy)**
+### 🔥 **One-Click Install ✅**
 
 ```bash
 git clone https://github.com/criminalmind0101/HN-DDOS-V2.git
